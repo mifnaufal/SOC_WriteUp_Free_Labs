@@ -74,3 +74,17 @@ Defensive
 ```
 CIRT
 ```
+
+# Advancing SOC Career
+## SOC Path
+Starting as a SOC L1 analyst may be a great option to broaden your cyber world awareness and better understand the more specialized roles. Moreover, even the entry-level SOC L1 role can be fun and engaging: You will deal with real attacks, protect the company from advanced threat groups, and learn a lot during the process. Let's see how you can start:
+
+1. Gain core SOC skills and practice them. Related skills like red teaming or general IT would help, too!
+2. Be proactive, try yourself in CTFs, stay in the loop of cyber news, and consider the SAL1 certification!
+3. Prepare for an interview, learn the difference between an internal SOC and MSSP, and apply for a job!
+4. After working for some time in a junior position, consider preparing and advancing to more senior roles!
+
+## Internal SOC vs MSSP
+
+Not every organization has the expertise to operate a SOC on its own and relies on a Managed Security Services Provider (MSSP), a company that delivers outsourced security services, most commonly SOC, to its clients. Working at MSSP is typically high-pressure, but it is also a good option to quickstart your career. While we recommend applying for any open SOC position as your first job, it's also important to understand the differences:
+
