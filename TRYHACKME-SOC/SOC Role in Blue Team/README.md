@@ -75,16 +75,315 @@ Defensive
 CIRT
 ```
 
-# Advancing SOC Career
-## SOC Path
-Starting as a SOC L1 analyst may be a great option to broaden your cyber world awareness and better understand the more specialized roles. Moreover, even the entry-level SOC L1 role can be fun and engaging: You will deal with real attacks, protect the company from advanced threat groups, and learn a lot during the process. Let's see how you can start:
+# Memajukan Karier SOC
+## Jalur SOC
+Memulai sebagai analis SOC L1 bisa menjadi pilihan yang sangat baik untuk memperluas wawasan dunia siber Anda dan memahami peran-peran yang lebih spesifik dengan lebih baik. Selain itu, bahkan peran SOC L1 tingkat pemula pun bisa menyenangkan dan menarik: Anda akan menghadapi serangan nyata, melindungi perusahaan dari kelompok ancaman tingkat lanjut, dan belajar banyak selama proses tersebut. Mari lihat bagaimana Anda bisa memulainya:
 
-1. Gain core SOC skills and practice them. Related skills like red teaming or general IT would help, too!
-2. Be proactive, try yourself in CTFs, stay in the loop of cyber news, and consider the SAL1 certification!
-3. Prepare for an interview, learn the difference between an internal SOC and MSSP, and apply for a job!
-4. After working for some time in a junior position, consider preparing and advancing to more senior roles!
+1. Kuasai keterampilan inti SOC dan latih terus. Keterampilan terkait seperti red teaming atau IT umum juga akan membantu!
+2. Bersikap proaktif, coba ikuti CTF, terus ikuti berita dunia siber, dan pertimbangkan sertifikasi SAL1!
+3. Persiapkan diri untuk wawancara, pelajari perbedaan antara SOC internal dan MSSP, lalu lamar pekerjaan!
+4. Setelah bekerja beberapa waktu di posisi junior, pertimbangkan untuk mempersiapkan diri dan naik ke peran yang lebih senior!
 
-## Internal SOC vs MSSP
+## SOC Internal vs MSSP
 
-Not every organization has the expertise to operate a SOC on its own and relies on a Managed Security Services Provider (MSSP), a company that delivers outsourced security services, most commonly SOC, to its clients. Working at MSSP is typically high-pressure, but it is also a good option to quickstart your career. While we recommend applying for any open SOC position as your first job, it's also important to understand the differences:
+Tidak semua organisasi memiliki keahlian untuk mengoperasikan SOC sendiri dan mengandalkan Managed Security Services Provider (MSSP), yaitu perusahaan yang menyediakan layanan keamanan outsourcing, paling umum SOC, kepada kliennya. Bekerja di MSSP biasanya memiliki tekanan tinggi, tetapi juga merupakan pilihan yang baik untuk memulai karier dengan cepat. Walaupun kami merekomendasikan melamar posisi SOC terbuka apa pun sebagai pekerjaan pertama Anda, penting juga untuk memahami perbedaannya:
 
+| Topik | SOC Internal | MSSP |
+|---|---|---|
+| **Contoh Skenario** | Anda bekerja di tim SOC sebuah bank dan melindungi sistem bank tersebut | Anda bekerja untuk MSSP global yang melindungi enam puluh pelanggan di Eropa |
+| **Tempo Kerja** | Biasanya Anda memiliki shift yang cukup tenang tanpa terlalu banyak tekanan waktu | Shift Anda biasanya dimulai dengan antrean alert mendesak yang harus dianalisis |
+| **Alat Keamanan** | Anda bekerja hanya dengan beberapa alat, tetapi harus benar-benar menguasainya | Anda harus bekerja dengan enam puluh alat dan platform keamanan yang beragam |
+| **Pengalaman Insiden** | Anda hanya melihat dan belajar dari dua serangan siber besar tahun lalu | Setiap minggu Anda menghadapi serangan dan pelanggaran keamanan, serta bisa belajar darinya |
+
+## Langkah Selanjutnya
+Langkah paling alami setelah L1 adalah menjadi analis SOC L2, tetapi Anda bebas memilih jalur lain! Saat menangani alert SIEM, Anda mungkin menyadari bahwa pekerjaan engineering lebih menarik bagi Anda. Selama serangan siber, Anda mungkin terpukau oleh tindakan CIRT. Anda juga mungkin merasa cocok menjadi manajer dan membangun jalur menuju peran CISO. Apa pun pilihannya, satu atau dua tahun pertama Anda adalah untuk mendapatkan pengalaman kerja nyata, dan agar waktu tersebut digunakan secara efektif, ikuti tips di bawah ini!
+
+![sumber thm](https://tryhackme-images.s3.amazonaws.com/user-uploads/678ecc92c80aa206339f0f23/room-content/678ecc92c80aa206339f0f23-1757446133693.svg)
+
+Answer the questions below
+
+**How would you call a cyber security company providing SOC services?**
+```
+MSSP
+```
+**Which role naturally continues your SOC L1 analyst journey?**
+```
+SOC L2 Analyst
+```
+# Tantangan Akhir
+
+Untuk tugas ini, bayangkan diri Anda sebagai seorang CISO di TrySecureMe, sebuah perusahaan multinasional besar. Anda mengawasi banyak departemen dan menangani insiden setiap bulan. Kali ini, sebanyak tujuh insiden terjadi secara bersamaan, dan Anda harus memilih orang yang tepat untuk menangani masing-masing insiden tersebut. Apakah Anda cukup memahami peran keamanan untuk menyelesaikan tantangan ini?
+
+**Instruksi Situs Web**  
+**Klik Tombol Hijau**
+
+Buka situs web terlampir dengan mengklik tombol View Site di atas dan pertimbangkan untuk mengubah ukuran atau membukanya dalam layar penuh agar tampilannya lebih baik. Kemudian, seret dan lepaskan peran dari sisi kiri ke insiden di sisi kanan. Jika pilihan Anda benar, klaim flag Anda dan selesaikan tugasnya! Anda dapat mereset situs web kapan saja dengan mengklik tombol Reset.
+
+![sumber thm](https://tryhackme-images.s3.amazonaws.com/user-uploads/678ecc92c80aa206339f0f23/room-content/678ecc92c80aa206339f0f23-1762383466452.png)
+
+ini adalah role yg benar untuk menangani permasalahan di dalam case ini:
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*vgX_yUx_yNz9Y4cAsx4W0A.png)
+
+Berikut penjelasan setiap role pada gambar TrySecureMe, dibuat sederhana dan mudah dipahami.
+
+# Gambaran Besar Alur Tim Cyber Security
+
+Bayangkan perusahaan punya “tim penjaga keamanan digital”.
+Setiap orang punya tugas berbeda:
+
+* Ada yang memantau alarm
+* Ada yang memperbaiki sistem
+* Ada yang memburu hacker
+* Ada yang audit aturan keamanan
+* Ada yang memimpin saat serangan terjadi
+
+Karena itu, setiap kasus harus ditangani oleh role yang tepat.
+
+# 1. CERT Lead — Robert
+
+Robert
+
+## Tugas Utama
+
+Pemimpin tim tanggap insiden keamanan.
+
+CERT = Computer Emergency Response Team.
+
+## Apa yang dilakukan?
+
+* Mengatur respon saat terjadi serangan besar
+* Menentukan prioritas
+* Koordinasi antar tim
+* Mengambil keputusan cepat
+
+## Contoh Kasus
+
+> “Kantor di Prancis terkena ransomware. Respon cepat dibutuhkan!”
+
+Ini cocok untuk CERT Lead karena:
+
+* Serangan ransomware adalah insiden besar
+* Butuh koordinasi cepat
+* Banyak tim harus diarahkan sekaligus
+
+## Analogi Mudah
+
+Seperti komandan pemadam kebakaran saat gedung terbakar.
+
+# 2. SOC L1 Analyst — Lucas
+
+Lucas
+
+## Tugas Utama
+
+“Penjaga monitor” keamanan level pertama.
+
+SOC = Security Operations Center.
+
+## Apa yang dilakukan?
+
+* Memantau alert dari SIEM
+* Mengecek alarm awal
+* Menentukan apakah ancaman asli atau false positive
+* Eskalasi jika serius
+
+## Contoh Kasus
+
+> “SIEM membuat alert brute-force di firewall.”
+
+Ini cocok untuk SOC L1 karena:
+
+* Mereka yang pertama menerima alert
+* Tugas mereka melakukan triage awal
+
+## Apa itu Triage?
+
+Memilah:
+
+* Bahaya atau tidak
+* Prioritas tinggi atau rendah
+* Perlu diteruskan atau tidak
+
+## Analogi Mudah
+
+Seperti petugas call center 112 yang menerima laporan pertama.
+
+
+# 3. SOC L2 Analyst — Susan
+
+Susan
+
+## Tugas Utama
+
+Analisis insiden lebih dalam.
+
+## Apa yang dilakukan?
+
+* Investigasi malware
+* Analisis log detail
+* Threat hunting
+* Menentukan dampak serangan
+
+## Contoh Kasus
+
+> “HR manager membuka phishing malware. Siapa yang melakukan analisis mendalam?”
+
+Jawaban: SOC L2 Analyst.
+
+Karena:
+
+* Malware perlu investigasi teknis
+* Harus dicek penyebarannya
+* Harus dianalisis bagaimana malware bekerja
+
+## Analogi Mudah
+
+Kalau L1 itu dokter umum, maka L2 adalah dokter spesialis.
+
+
+# 4. GRC Auditor — Nick
+
+Nick
+
+## Tugas Utama
+
+Mengurus aturan, compliance, dan audit.
+
+GRC = Governance, Risk, Compliance.
+
+## Apa yang dilakukan?
+
+* Audit keamanan
+* Memastikan perusahaan patuh standar
+* Mengecek risiko bisnis
+* Membuat kebijakan keamanan
+
+## Contoh Kasus
+
+> “Server kartu kredit membutuhkan audit PCI DSS.”
+
+Jawaban: GRC Auditor.
+
+Karena:
+
+* PCI DSS adalah standar compliance
+* Audit dan kepatuhan adalah tugas GRC
+
+## Apa itu PCI DSS?
+
+Standar keamanan untuk data kartu kredit.
+
+## Analogi Mudah
+
+Seperti auditor keuangan, tapi untuk keamanan IT.
+
+
+# 5. Penetration Tester — Ben
+
+Ben
+
+## Tugas Utama
+
+Mencari celah keamanan sebelum hacker menemukannya.
+
+## Apa yang dilakukan?
+
+* Simulasi hacking legal
+* Vulnerability assessment
+* Uji keamanan aplikasi/server
+* Exploit testing
+
+## Contoh Kasus
+
+> “Cek versi baru hyrackme.thm untuk vulnerability.”
+
+Jawaban: Penetration Tester.
+
+Karena:
+
+* Tujuannya mencari kelemahan sistem
+* Butuh pengujian seperti hacker
+
+## Analogi Mudah
+
+Seperti “tester keamanan gedung” yang mencoba membobol pintu untuk mencari kelemahan.
+
+
+# 6. SOC Engineer — Eugen
+
+Eugen
+
+## Tugas Utama
+
+Membangun dan memperbaiki sistem SOC.
+
+## Apa yang dilakukan?
+
+* Mengelola SIEM
+* Membuat rule detection
+* Troubleshooting tools security
+* Integrasi log dan monitoring
+
+## Contoh Kasus
+
+> “SIEM tidak tersedia karena storage penuh.”
+
+Jawaban: SOC Engineer.
+
+Karena:
+
+* Ini masalah infrastruktur/security tools
+* Bukan investigasi serangan
+
+## Analogi Mudah
+
+Seperti teknisi mesin yang memastikan CCTV dan alarm tetap bekerja.
+
+
+# 7. Threat Researcher — Alice
+
+Alice
+
+## Tugas Utama
+
+Mempelajari hacker dan teknik serangan terbaru.
+
+## Apa yang dilakukan?
+
+* Riset kelompok hacker
+* Analisis TTP (Tactics, Techniques, Procedures)
+* Membuat threat intelligence
+* Mempelajari malware baru
+
+## Contoh Kasus
+
+> “FIN7 sedang menarget perusahaan kita. Siapa yang menganalisis taktik mereka?”
+
+Jawaban: Threat Researcher.
+
+Karena:
+
+* FIN7 adalah kelompok threat actor
+* Perlu riset pola dan strategi mereka
+
+# Ringkasan Cepat
+
+| Role               | Fokus Utama             | Contoh Kerja          |
+| ------------------ | ----------------------- | --------------------- |
+| CERT Lead          | Memimpin respon insiden | Koordinasi ransomware |
+| SOC L1             | Monitor alert awal      | Cek alert SIEM        |
+| SOC L2             | Investigasi mendalam    | Analisis malware      |
+| GRC Auditor        | Audit & compliance      | PCI DSS               |
+| Penetration Tester | Cari celah keamanan     | Uji vulnerability     |
+| SOC Engineer       | Perbaiki tools SOC      | SIEM error            |
+| Threat Researcher  | Riset hacker            | Analisis FIN7         |
+
+
+
+Answer the questions below
+
+
+**What flag did you claim after completing the final challenge?**
+```
+THM{trysecureme_is_secured!}
+```
